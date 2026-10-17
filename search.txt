@@ -1,0 +1,1 @@
+grep -rnw '/home/serafeim/myclox' -e '1.2'
