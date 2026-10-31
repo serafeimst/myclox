@@ -1,3 +1,9 @@
 Stopped at 
 
-17.5
+17.6.1
+
+
+mkdir build
+cd build
+cmake ..
+make
