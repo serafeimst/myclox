@@ -1,7 +1,28 @@
-Stopped at 
+STOPPED AT 
 
-19.1
+20.1
 
+
+
+CONCEPTS
+
+Kefalaio 19
+[
+    type punning
+    intrusive list
+]
+
+
+
+NEW FILES
+
+Kefalaio 19
+[
+    object.h->object.c
+]
+
+
+CMAKE
 
 mkdir build
 cd build
