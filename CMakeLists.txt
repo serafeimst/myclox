@@ -10,4 +10,5 @@ add_executable(myclox
             memory.c
             scanner.c
             value.c
-            vm.c)
+            vm.c
+            object.c)
