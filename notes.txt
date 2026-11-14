@@ -1,8 +1,6 @@
 STOPPED AT 
 
-20.1
-
-
+21.1
 
 CONCEPTS
 
@@ -10,6 +8,18 @@ Kefalaio 19
 [
     type punning
     intrusive list
+]
+
+Kefalaio 20
+[
+    linear probing
+
+    hash functions
+    (we will use FNV-1a)
+
+    tombstones
+
+    string interning
 ]
 
 
